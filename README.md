@@ -1,1 +1,1 @@
-https://github.com/username/posmotri-v-okno-ad
+https://github.com/AlexandrKing/slozhno-sosredotochitsya-ad

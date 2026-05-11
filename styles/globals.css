@@ -1,0 +1,44 @@
+@import url("../fonts/fonts.css");
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+li {
+  margin: 0;
+}
+
+body {
+  min-inline-size: 320px;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  padding: 0;
+}
+
+img {
+  display: block;
+  max-inline-size: 100%;
+}

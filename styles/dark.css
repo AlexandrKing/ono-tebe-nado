@@ -1,0 +1,14 @@
+.page.theme_dark {
+  color-scheme: dark;
+  --bg-color: #000028;
+  --accent-color: #ff0070;
+  --main-text-color: #f1b2ce;
+  --section-title-color: #ff0070;
+  --title-color: #db00ff;
+  --title-shadow-color: #ff0070;
+  --title-decor-text-color: #000028;
+  --decor-color: #ff0070;
+  --button-hover-color: rgba(255, 0, 112, 0.4);
+  --rec-display: inline-flex;
+  --cover-image: url("../images/cover-image-dark.png");
+}
